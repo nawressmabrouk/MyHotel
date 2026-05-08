@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gestion Hôtel - Application de Gestion Hôtelière
 
 ##  Description
@@ -156,3 +157,7 @@ CustomTkinter
 MySQL
 
 mysql-connector-python
+=======
+# MyHotel
+Application développée avec Python et CustomTkinter pour la gestion d'un hôtel (chambres, clients, réservations,  factures).
+>>>>>>> cebef23f915405f9b570e049fe7eaef6a5a0bbf3
